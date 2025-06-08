@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portfolio</title>
+    <link>https://toarutoa.github.io/posts/</link>
+    <description>Recent content in Posts on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jun 2025 12:00:00 +0900</lastBuildDate>
+    <atom:link href="https://toarutoa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://toarutoa.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 08 Jun 2025 12:00:00 +0900</pubDate>
+      <guid>https://toarutoa.github.io/posts/hello-world/</guid>
+      <description>&lt;p&gt;これは最初の投稿です。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
